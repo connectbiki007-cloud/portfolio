@@ -1,4 +1,5 @@
 # 🚀 Bikash KC - Modern Animated Portfolio
+
 A sleek, modern portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**. Features smooth scroll animations, a video background, interactive skill cards, project showcase, and a resume upload/preview system using IndexedDB – all without a backend.
 
 ## ✨ Features
@@ -27,10 +28,12 @@ A sleek, modern portfolio website built with **React**, **Tailwind CSS**, and **
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v20.20.0)
 - npm or yarn
 
 ### Installation
+
 Requirement.txt
+
 1. Clone the repository:
-  
