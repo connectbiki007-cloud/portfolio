@@ -1,6 +1,6 @@
 import Section from "../components/Section";
 import { motion } from "framer-motion";
-import profileImg from "../assets/profile.jpg";
+import profileImg from "../assets/profile.JPG";
 import { Facebook, Instagram, Linkedin, Github } from "lucide-react";
 
 const About = () => {
